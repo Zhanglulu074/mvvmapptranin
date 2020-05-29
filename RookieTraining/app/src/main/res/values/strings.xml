@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">RookieTraining</string>
+    <string name="test_btn_text">测试</string>
 </resources>
